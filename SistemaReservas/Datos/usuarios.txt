@@ -1,0 +1,12 @@
+# Formato: Legajo|Rol|Apellido|Nombre|Email|Activo
+# El campo Rol determina que clase concreta se instancia (Usuario.CrearSegunRol).
+AD-2024-001|Administrador|Gimenez|Laura|laura.gimenez@instituto.edu.ar|True
+AD-2024-002|Administrador|Sosa|Ricardo|ricardo.sosa@instituto.edu.ar|True
+D-2024-003|Docente|Fernandez|Marcelo|marcelo.fernandez@instituto.edu.ar|True
+D-2024-007|Docente|Quiroga|Silvina|silvina.quiroga@instituto.edu.ar|True
+D-2024-011|Docente|Aguirre|Pablo|pablo.aguirre@instituto.edu.ar|True
+A-2024-015|Alumno|Perez|Juan|juan.perez@alumnos.edu.ar|True
+A-2024-022|Alumno|Rodriguez|Camila|camila.rodriguez@alumnos.edu.ar|True
+A-2024-038|Alumno|Molina|Tomas|tomas.molina@alumnos.edu.ar|True
+A-2024-044|Alumno|Benitez|Sofia|sofia.benitez@alumnos.edu.ar|True
+A-2023-009|Alumno|Ledesma|Nicolas|nicolas.ledesma@alumnos.edu.ar|False

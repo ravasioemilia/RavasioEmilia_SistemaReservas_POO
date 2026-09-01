@@ -1,0 +1,8 @@
+# Formato: Id|Nombre|Ubicacion|CapacidadPCs|Equipamiento|Activo
+# Las lineas que empiezan con # y las lineas en blanco son ignoradas al cargar.
+LAB01|Laboratorio de Redes|Planta Baja - Ala Norte|25|Proyector, Switch Cisco, Rack|True
+LAB02|Laboratorio de Programacion|Primer Piso - Aula 12|30|Proyector, Pizarra digital|True
+LAB03|Laboratorio de Hardware|Subsuelo - Taller|15|Bancos de trabajo, Osciloscopio|True
+LAB04|Laboratorio Multimedia|Segundo Piso - Aula 21|20|Tabletas graficas, Placa de captura|True
+LAB05|Laboratorio de Base de Datos|Primer Piso - Aula 14|18|Servidor local, Proyector|True
+LAB06|Laboratorio Movil (en reparacion)|Deposito|10|Notebooks|False

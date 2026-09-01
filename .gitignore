@@ -1,0 +1,11 @@
+# Carpetas de compilacion (se regeneran solas, no van en la entrega)
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Respaldos automaticos que genera el repositorio al guardar
+*.txt.bak

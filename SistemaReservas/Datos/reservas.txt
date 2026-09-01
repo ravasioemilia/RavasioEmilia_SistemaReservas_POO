@@ -1,0 +1,19 @@
+# Formato: Id|IdLaboratorio|LegajoUsuario|Fecha(yyyy-MM-dd)|HoraInicio|HoraFin|Motivo|Estado
+# Estados validos: Pendiente | Confirmada | Cancelada
+#
+# Datos de prueba pensados para verificar las reglas del sistema:
+#  - R004 y R005 son contiguas (16:00 termina, 16:00 empieza): NO deben dar solapamiento.
+#  - R007 esta cancelada, asi que su horario queda libre para reservar de nuevo.
+#  - A-2024-015 tiene 3 reservas vigentes en la semana: ya alcanzo su limite de Alumno.
+R001|LAB01|D-2024-003|2026-07-20|08:00|10:00|Clase de Redes - Modulo 1|Confirmada
+R002|LAB02|D-2024-007|2026-07-21|14:00|17:00|Practica de Programacion II|Confirmada
+R003|LAB03|A-2024-038|2026-07-22|10:00|12:00|Armado de PC - TP grupal|Confirmada
+R004|LAB01|A-2024-015|2026-07-28|14:00|16:00|Trabajo Practico 3|Confirmada
+R005|LAB01|D-2024-011|2026-07-28|16:00|18:00|Clase de consulta|Confirmada
+R006|LAB02|A-2024-015|2026-07-29|09:00|11:00|Practica de laboratorio|Confirmada
+R007|LAB02|A-2024-022|2026-07-29|14:00|16:00|Reserva dada de baja|Cancelada
+R008|LAB04|A-2024-015|2026-07-30|10:00|12:00|Edicion de video - TP Multimedia|Pendiente
+R009|LAB05|D-2024-003|2026-07-30|18:00|20:00|Clase de Base de Datos|Confirmada
+R010|LAB01|A-2024-044|2026-07-31|08:00|10:00|Uso libre|Pendiente
+R011|LAB03|D-2024-007|2026-08-03|14:00|16:00|Mantenimiento de equipos|Confirmada
+R012|LAB02|A-2024-022|2026-08-04|10:00|13:00|Integrador de Programacion|Confirmada
